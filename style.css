@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#block {
+    position: absolute;
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+
+
